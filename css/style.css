@@ -28,6 +28,10 @@ figcaption {
   text-shadow: 0 2px 3px #000;
 }
 
+.shadow {
+  box-sizing: 0 3px 10px #333;
+}
+
 
 
 /*////////// BACKGROUNDS //////////*/
@@ -72,7 +76,7 @@ img, video, audio, iframe, table, form {
 .col-1 {
   float: left;
   width: 32%;
-  
+
 }
 
 .col-2 {
